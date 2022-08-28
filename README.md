@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shizuniik. 
 - 👀 I’m interested in developing games and AR apps.  
-- 🌱 I’m currently learning more about game development using Unity3D. 
-- 💞️ I’m looking to collaborate on Unity3D/C# projects. 
+- 🌱 I’m currently learning more about Unity3D and AR development. 
+- 💞️ I’m looking to collaborate on Unity3D/AR projects. 
 <!---- 📫 How to reach me ...--->
 
 <!---
